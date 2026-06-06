@@ -1,4 +1,4 @@
-# CANP — Inteligência de Mercado & Análise de Dados
+# CANP - Inteligência de Mercado & Análise de Dados
 
 Case acadêmico/profissional de diagnóstico estratégico para a **Cooperativa CANP**, produtora de Café Especial e Mel Gourmet no Norte do Paraná. O projeto propõe a transformação da gestão da cooperativa de reativa para orientada por dados, estruturado em cinco dimensões analíticas.
 
@@ -25,7 +25,7 @@ Plano de coleta e análise de dados digitais, cobrindo:
 - Análises recomendadas: sentimento, funil de conversão, coorte, cluster e correlação multivariada
 
 ### 02 · Data Storytelling
-Narrativa analítica seguindo o modelo de cinco atos — **Contexto → Conflito → Evidências → Insights → Recomendação** —, com:
+Narrativa analítica seguindo o modelo de cinco atos - **Contexto → Conflito → Evidências → Insights → Recomendação** -, com:
 - Inventário de dados por categoria (produção, clima, logística, avaliações, vendas)
 - Cadeia de causalidade: clima × qualidade, logística × reclamações, sazonalidade × demanda
 - Storyboard com sete visualizações propostas (mapas de calor, dispersão, NPS, sentimento, sazonalidade)
@@ -45,14 +45,14 @@ Plano de Qualidade de Dados (PQD) com base no framework DAMA-DMBOK:
 - Checklist de implementação em quatro fases: diagnóstico, limpeza/padronização, validação e monitoramento contínuo
 - Definição de Data Owners para os quatro datasets críticos (clima, produção, logística, clientes/reputação)
 
-### 05 · Dashboards — DIOM
+### 05 · Dashboards - DIOM
 Dashboard de Inteligência Operacional e de Mercado com três KPIs estratégicos e semáforos de ação proativa:
 
 | KPI | Fórmula | Verde | Amarelo | Vermelho |
 |---|---|---|---|---|
-| TCL — Taxa de Conformidade de Lote | (Lotes Conformes / Total) × 100 | ≥ 90% | 75–89% | < 75% |
-| OTDR — On-Time Delivery Rate | (Entregas no Prazo / Total Despachados) × 100 | ≥ 95% | 85–94% | < 85% |
-| ISD — Índice de Sentimento Digital | (Positivos − Negativos) / Total × 100 | ≥ +40 | +10 a +39 | < +10 |
+| TCL - Taxa de Conformidade de Lote | (Lotes Conformes / Total) × 100 | ≥ 90% | 75–89% | < 75% |
+| OTDR - On-Time Delivery Rate | (Entregas no Prazo / Total Despachados) × 100 | ≥ 95% | 85–94% | < 85% |
+| ISD - Índice de Sentimento Digital | (Positivos − Negativos) / Total × 100 | ≥ +40 | +10 a +39 | < +10 |
 
 O DIOM prevê três visões diferenciadas: **Executiva** (diretoria), **Operacional** (produção e logística) e **Mercado** (marketing e atendimento).
 
